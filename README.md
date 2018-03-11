@@ -27,4 +27,18 @@ frames.
 * Since we are using Matlab are program is dependent upon Matlab
 compiler but it is OS platform independent.
 
+Compression Phase
+-----------------
+
+In phase-I i.e., Compression part of the software, Each frames
+are considered and converted into YCbCr formate where Y gives the Luminous
+and Cb & Cr gives the Chrominous part of the image. These are
+considered in macro blocks and send to the different modules such as DCT
+function, Quantization, Zigzag traversal and Runlength Encoding and the
+data is Stored as ”Intermediate file” i.e., our Compressed file.
+
+
+
+
+
 
