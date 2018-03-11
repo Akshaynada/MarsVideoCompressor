@@ -38,7 +38,6 @@ function, Quantization, Zigzag traversal and Runlength Encoding and the
 data is Stored as ”Intermediate file” i.e., our Compressed file.
 
 
-
-
+![alt text](https://github.com/Akshaynada/MarsVideoCompressor/blob/master/Video%20Compressor%20Project/Compression_phase.png)
 
 
