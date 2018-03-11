@@ -40,4 +40,14 @@ data is Stored as ”Intermediate file” i.e., our Compressed file.
 
 ![alt text](https://github.com/Akshaynada/MarsVideoCompressor/blob/master/Video%20Compressor%20Project/Compression_phase.png)
 
+Decompression Phase
+-------------------
+
+In phase–II i.e., Decompression part of the softwar, Encoded
+Runlength is loaded and all the information about each frames are extracted
+and these data are operated in different inverse modules such as Runlength
+Decoding, Anti-Zigzag Traversal and inverse DCT function and we obtain a
+YCbCr formated frames and these are converted back to RGB and stored in
+a Structure and finally formated to a avi video file 
+
 
